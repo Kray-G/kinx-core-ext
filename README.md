@@ -1,2 +1,3 @@
-# kinx-core-ext
-Kinx core extensions.
+# Kinx Core Extentions.
+
+The core extensions for [Kinx](https://github.com/Kray-G/kinx).
